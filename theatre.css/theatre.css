@@ -1,0 +1,29 @@
+body, html{
+    background-color: rgb(10, 10, 10);
+    height: 100%;
+    margin: 0px;
+}
+
+header {
+    color: aliceblue;
+    padding-left: 40px;
+    padding-top: 15px;
+    font-size: x-large;
+}
+
+.flex-container {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        color: azure;
+       }
+
+img {
+    height: 600px;
+    width: 100%;
+}
+
+.name1 {
+    background-color: antiquewhite;
+    a
+}
